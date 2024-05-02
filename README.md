@@ -6,10 +6,9 @@
 
 Hello world
 
--option 1
--option 2
+- option 1
+- option 2
  - sub-option
 
- *option 5
-
- *option 6
+* option 5
+* option 6
