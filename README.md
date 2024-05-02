@@ -12,3 +12,4 @@ Hello world
 
 * option 5
 * option 6
+* option 7
